@@ -1,0 +1,239 @@
+# https://openagentsalliance.org/ llms-full.txt
+
+## Open Agent Alliance
+# Open Agent Alliance
+
+Making the future of AI agents open, user-owned, and accessible to all.
+
+
+[Sign Up for the Alliance](https://forms.gle/Q2jwXcnpb8rPZP5h8)
+
+## Open Agent Alliance Manifesto
+
+### Mission
+
+The Open Agent Alliance is a shared commitment to make the future of AI agents
+and assistants open, user-owned, and globally available to all while fairly
+rewarding its builders.
+
+
+### Core Beliefs
+
+- We believe that users should own their data.
+- We believe that AI is a public good.
+- We believe that agents should be economic actors, offering more than just
+information.
+
+- We believe that privacy is a right to be protected.
+- We believe that open source contributors should be rewarded.
+- We believe that working together beats working alone every time.
+
+### Our Method
+
+Our goal is to create an open ecosystem where AI assistants seamlessly
+integrate into daily life as economic actors, empowering users while
+protecting their rights and privacy.
+
+
+In order to accomplish this, members of our alliance will be non-exclusively
+offering:
+
+
+- A simple fiat on-ramping and off-ramping system designed for non-crypto
+users, aiming to reach 10 times the current crypto user base.
+
+- Front-end applications with built-in user bases that can leverage AI
+assistants.
+
+- A secure hosting infrastructure that minimizes agent creation and deployment
+costs—making it free when possible—while monetizing open-source models and
+providing physical hardware protection across all platforms.
+
+- A set of physical hardware providers that can be leveraged by any hosting
+platform in a default state secure way, protected from even physical attacks.
+
+- An agnostic discovery system enabling any platform to find agents from any
+participating hosting platform.
+
+- Open-source developer kits that enable the community to build features
+rapidly and learn from each other.
+
+- A chain-agnostic payment system that fairly compensates all contributors at
+each step.
+
+
+Our alliance welcomes new members in all these categories, as we believe open
+and communal systems consistently prevail.
+
+
+## Alliance Info
+
+A groundbreaking collaboration of forward-thinking teams including
+**NEAR AI** and **Coinbase Onramp & Agent Kit**
+announced the launch of the **Open Agent Alliance (OAA)**,
+an initiative to deliver powerful, open AI services to all users by combining
+infrastructure. By uniting secure infrastructure, innovative payment rails,
+and cutting-edge AI technology, the OAA teams’ shared mission is to ensure
+secure, open source, economical, and fair AI access for humanity — prioritizing
+user privacy and economic inclusivity for over 5.5 billion web users worldwide.
+
+
+“As the global web continues to shift toward mobile users, we believe AI must
+be accessible to everyone,” said Illia Polosukhin, Co-Founder of NEAR AI.
+“In partnership with leaders in hosting, privacy, and payments, we’re building
+a globally distributed network that can provide AI services securely,
+confidentially, and at no cost to end users. This effort spans far beyond
+the current 350 million blockchain users, extending the power of crypto to
+deliver accessible AI tools to all.”
+
+
+Through the OAA, participating organizations will offer end-to-end solutions—
+including an agentic AI framework, cloud and TEE-based hosting, and
+frictionless on/off-ramps to both fiat and crypto. By allowing developers
+to seamlessly build and deploy AI, and by sharing revenue with hardware
+and software providers, the Alliance is paving the way for free AI inference
+at scale. This united front aims to replace the traditional “pay-to-play”
+model with a user-first approach for the benefit of all.
+
+
+##### List of OAA Participating Teams
+
+- NEAR AI
+- Coinbase Onramp & AgentKit
+- Eliza Labs
+- Aethir
+- Bitte Protocol
+- Akash
+- Phala Network
+- Hyperbolic
+- Exabits
+- SWEAT Economy
+- HOT
+- Frax Finance
+- Arc
+- MotherDAO
+
+##### Alliance Member Logos
+
+![Alliance Member Logos](https://openagentsalliance.org/logos.png)
+
+##### Selected Quotes
+
+_“We’re honored to join the Open Agent Alliance, an initiative that echoes_
+_our commitment to fostering open and decentralized innovation. With Coinbase_
+_Onramp evolving as a foundational component for AI transactions and_
+_AgentKit empowering any agent with a wallet, we look forward to contributing_
+_to a more accessible and collaborative AI future.”_
+
+––Dan Kim, VP of BD at Coinbase Onramp & Agentkit
+
+
+_“We’re thrilled to join the Open Agent Alliance, fueling an open, decentralized_
+_future. Our AI Agents will make Sweat Wallet the smartest omnichain consumer_
+_crypto app, simplifying web3 so tens of millions can thrive. The road to_
+_trillions of agents goes through millions of actual Sweat Wallet users, and_
+_together, we’re building an empowering, limitless web3.”_
+
+––Oleg Fomenko, Co-Founder and CEO of the SWEAT Economy
+
+
+_“We’re excited to be part of the Open Agent Alliance, an initiative that will_
+_redefine AI accessibility. By joining forces with like-minded innovators,_
+_Eliza Labs can contribute to a future where AI benefits everyone, no matter_
+_their background or resources.”_
+
+––Shaw Walters, Founder, Eliza Labs
+
+
+_"Open Agent Alliance's mission is to ensure Agent infrastructure remains open,_
+_permissionless, and decentralized. As the first decentralized cloud, OAA’s_
+_mission aligns with Akash's, and we're super excited to contribute to this_
+_Alliance."_
+
+––Greg Osuri, Founder, Akash
+
+
+_“The future of AI depends on open, scalable infrastructure. By powering the_
+_Open Agent Alliance with decentralized computing, we’re making advanced AI_
+_accessible to billions– without the barriers of cost or control.”_
+
+––Mark Rydon, Co-Founder & CSO of Aethir
+
+
+_“Agent systems should collaborate to establish a real ‘don’t be evil’_
+_baseline for AI’s future.”_
+
+––Nate Geier, CEO & Founder of Bitte Protocol
+
+
+_“The Open Agent Alliance is a bold step toward building trustless,_
+_autonomous AI agents that can operate securely at scale. All tools are_
+_in the box already––just ship the next generation of intelligent,_
+_decentralized systems right now.”_
+
+––Marvin Tong, CEO and Co-Founder of Phala Network
+
+
+_“We believe in an open future where AI agents and assistants are_
+_user-owned, globally accessible, and empower individuals while ensuring_
+_fairness and privacy. Together, we build a community where collaboration_
+_always outweighs isolation.”_
+
+––Peter Volnov, CEO and Co-Founder of HOT Protocol
+
+
+## Additional Info
+
+#### What is the Open Agent Alliance (OAA)?
+
+A global alliance of teams devoted to free (within reason) AI access for over
+5.5 billion internet users, no matter who they are or what amount of wealth
+they have.
+
+
+Created to replace outdated payment systems and centralized AI offerings,
+ensuring everyone can benefit from next-generation AI tools, while all
+providers can collaborate communally to result in the best experience for
+the user.
+
+
+#### Key Components & Partnerships
+
+* * *
+
+##### End-to-End Payment & On/Off-Ramps
+
+- Coinbase and others provide simple fiat-to-crypto and crypto-to-fiat pathways.
+
+- NEAR AI enables seamless conversion into USDC on Base, and then into USDC on
+NEAR at little or no cost using their intents system.
+
+- Future-proof, chain-agnostic payment rails that reward all contributors—
+frontends, developers, kit development teams, hardware providers, hosting
+services—while keeping AI inference free for users.
+
+
+##### Hosting & Infrastructure
+
+- NEAR AI offers a developer-friendly environment for deploying and hosting
+agents, handling all back-end complexity.
+
+- NEAR AI is leading an open source and private “agent cloud” that uses
+decentralized infrastructure so developers can deploy easily and securely.
+
+- Phala integrates TEE-based confidentiality for user data.
+- Hyperbolic, Aethir, and Akash supply the high-performance GPUs for large-scale
+AI processing.
+
+
+##### Open and Federated Agent Discovery
+
+- A system welcoming all agentic frameworks (Eliza, Coinbase, Bitte, Vanilla
+Python or TypeScript, etc.) to join the network.
+
+- Encourages broad collaboration and open contributions, making it easier for
+new projects to leverage AI at scale.
+
+- All parts of this framework, frontends, and discovery system will be remunerated
+for their work.
+
