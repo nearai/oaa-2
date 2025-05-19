@@ -241,6 +241,12 @@
             color: var(--terminal-secondary);
         }
 
+        .header-controls {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
         /* Responsive styles for mobile */
         @media (max-width: 600px) {
             .terminal-container {
@@ -251,10 +257,21 @@
                 max-width: 100vw;
             }
             .terminal-header {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 10px;
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+                gap: 0;
                 padding: 8px 5px;
+                position: relative;
+            }
+            .header-controls {
+                flex-direction: row;
+                align-items: center;
+                gap: 10px;
+                position: static;
+            }
+            .terminal-title {
+                font-size: 1.1rem;
             }
             .hamburger {
                 display: flex;
@@ -286,22 +303,24 @@
     <div class="terminal-container">
         <div class="terminal-header">
             <div class="terminal-title">OAA Terminal v1.0</div>
-            <button class="hamburger" aria-label="Open navigation">
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
+            <div class="header-controls">
+                <div class="terminal-buttons">
+                    <div class="terminal-button red"></div>
+                    <div class="terminal-button yellow"></div>
+                    <div class="terminal-button green"></div>
+                </div>
+                <button class="hamburger" aria-label="Open navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
             <div class="nav-menu">
                 <a href="index.html" class="nav-item">Home</a>
                 <a href="manifesto.html" class="nav-item">Manifesto</a>
                 <a href="alliance.html" class="nav-item">Alliance Info</a>
                 <a href="members.html" class="nav-item">Members</a>
                 <a href="quotes.html" class="nav-item">Quotes</a>
-            </div>
-            <div class="terminal-buttons">
-                <div class="terminal-button red"></div>
-                <div class="terminal-button yellow"></div>
-                <div class="terminal-button green"></div>
             </div>
         </div>
         <div class="terminal-body">
