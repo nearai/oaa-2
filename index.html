@@ -210,8 +210,45 @@
             box-shadow: 0 0 15px var(--terminal-glow);
         }
 
-        /* Responsive styles for mobile */
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            justify-content: center;
+            gap: 4px;
+            width: 32px;
+            height: 32px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            z-index: 2;
+        }
+        .hamburger span {
+            display: block;
+            height: 3px;
+            width: 100%;
+            background: var(--terminal-primary);
+            border-radius: 2px;
+        }
         @media (max-width: 600px) {
+            .hamburger {
+                display: flex;
+            }
+            .nav-menu {
+                display: none;
+                flex-direction: column;
+                gap: 10px;
+                margin-right: 0;
+                width: 100%;
+                background: var(--terminal-bg);
+                position: absolute;
+                top: 60px;
+                left: 0;
+                z-index: 1;
+                border-bottom: 1px solid var(--terminal-primary);
+            }
+            .nav-menu.open {
+                display: flex;
+            }
             .terminal-container {
                 width: 100%;
                 height: auto;
@@ -225,12 +262,6 @@
                 gap: 10px;
                 padding: 8px 5px;
             }
-            .nav-menu {
-                flex-direction: column;
-                gap: 10px;
-                margin-right: 0;
-                width: 100%;
-            }
             .terminal-body {
                 padding: 10px;
             }
@@ -242,6 +273,11 @@
     <div class="terminal-container">
         <div class="terminal-header">
             <div class="terminal-title">OAA Terminal v1.0</div>
+            <button class="hamburger" aria-label="Open navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
             <div class="nav-menu">
                 <a href="index.html" class="nav-item">Home</a>
                 <a href="manifesto.html" class="nav-item">Manifesto</a>
@@ -356,6 +392,13 @@
 
         // Start typing animation when page loads
         window.addEventListener('load', typeNextCharacter);
+
+        // Hamburger menu toggle
+        const hamburger = document.querySelector('.hamburger');
+        const navMenu = document.querySelector('.nav-menu');
+        hamburger.addEventListener('click', () => {
+            navMenu.classList.toggle('open');
+        });
     </script>
 </body>
 </html>
